@@ -11,3 +11,8 @@ describe('todo list test', () => {
 
     });
 });
+
+it ('should show title of todos', () => {
+    render(<TodoList todos={mockData} />) ;
+    screen.debug();
+  });
