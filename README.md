@@ -1,2 +1,3 @@
 # SoftDev
-Code review and pair programming exercise
+
+Repository for Lab and studies.
